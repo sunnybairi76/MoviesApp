@@ -1,0 +1,10 @@
+
+Showing Recent Issues
+Prepare packages
+Prepare build
+Building targets in dependency order
+
+Build target Assigntment
+
+
+Activity Log Complete    31/08/23, 1:23 PM    3.2 seconds
